@@ -8,5 +8,4 @@ def main(a):
     """
     # Write your code here
     return a%2 == 0
-
 print(main(2))    
